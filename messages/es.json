@@ -1,0 +1,272 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "play": "Jugar",
+    "results": "Resultados",
+    "levels": "Niveles"
+  },
+  "cta": {
+    "primary": "Jugar ahora"
+  },
+  "footer": {
+    "tagline": "¡Arrastra, suelta y completa divertidos puzles de dibujos animados!",
+    "rights": "Todos los derechos reservados."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Aventuras de Puzles de Dibujos Animados",
+      "title": "Elige una escena y encaja cada pieza en su lugar",
+      "subtitle": "Elige entre coloridos puzles de dibujos animados, arrastra cada pieza sobre la imagen completa y completa la escena una conexión a la vez.",
+      "progressLabel": "Tu progreso",
+      "statsLevels": "niveles completados",
+      "statsStars": "estrellas ganadas"
+    },
+    "filters": {
+      "all": "Todos",
+      "easy": "Fácil",
+      "medium": "Medio",
+      "hard": "Difícil"
+    },
+    "levels": {
+      "title": "Elige tu puzle",
+      "subtitle": "Cada escena es una imagen de dibujos animados completa dividida en piezas, lista para ser reconstruida.",
+      "pieceLabel": "piezas",
+      "playCta": "Jugar ahora",
+      "lockedCta": "Bloqueado",
+      "items": [
+        {
+          "title": "Jungle Safari",
+          "difficulty": "Easy",
+          "pieces": 12,
+          "locked": false
+        },
+        {
+          "title": "Under the Sea",
+          "difficulty": "Easy",
+          "pieces": 16,
+          "locked": false
+        },
+        {
+          "title": "Space Explorer",
+          "difficulty": "Medium",
+          "pieces": 20,
+          "locked": false
+        },
+        {
+          "title": "Enchanted Forest",
+          "difficulty": "Medium",
+          "pieces": 24,
+          "locked": true
+        },
+        {
+          "title": "Dino World",
+          "difficulty": "Hard",
+          "pieces": 30,
+          "locked": true
+        },
+        {
+          "title": "Candy Kingdom",
+          "difficulty": "Hard",
+          "pieces": 36,
+          "locked": true
+        }
+      ]
+    },
+    "steps": {
+      "title": "Cómo funciona el puzle",
+      "subtitle": "Cuatro pasos simples para convertir piezas dispersas en una escena de dibujos animados terminada.",
+      "items": [
+        {
+          "title": "Pick a scene",
+          "description": "Select a cartoon puzzle from the level list based on its difficulty and piece count."
+        },
+        {
+          "title": "Pieces shuffle in",
+          "description": "Every piece of the full image scatters around the board, ready to be sorted."
+        },
+        {
+          "title": "Drag and connect",
+          "description": "Drop each piece onto its matching spot and watch it snap into the correct position."
+        },
+        {
+          "title": "Complete the picture",
+          "description": "Keep connecting pieces until the full cartoon image is rebuilt and the level is cleared."
+        }
+      ]
+    },
+    "cta": {
+      "title": "¿Listo para reconstruir tu primera escena?",
+      "subtitle": "Salta al puzle desbloqueado más fácil y comienza a conectar piezas de inmediato.",
+      "button": "Comenzar a jugar"
+    }
+  },
+  "results": {
+    "badge": "Puzle completado",
+    "headingPrefix": "Has armado una",
+    "headingHighlight": "obra maestra",
+    "subtitle": "Las {pieces} piezas encontraron su lugar. Así fue tu desempeño.",
+    "summaryTitle": "Tus resultados",
+    "stats": {
+      "time": {
+        "label": "Tiempo de finalización"
+      },
+      "moves": {
+        "label": "Movimientos realizados"
+      },
+      "difficulty": {
+        "label": "Dificultad"
+      },
+      "score": {
+        "label": "Puntuación final"
+      }
+    },
+    "difficultyValue": "Medio",
+    "nextTitle": "¿Qué sigue?",
+    "nextSubtitle": "Mantén la racha o comparte notas con otros jugadores de puzles.",
+    "actions": {
+      "playAgain": "Jugar otro puzle",
+      "goHome": "Volver al inicio",
+      "leaderboard": "Ver tabla de clasificación",
+      "leaderboardBadge": "Próximamente"
+    }
+  },
+  "hero": {
+    "eyebrow": "Un juego de puzzle de dibujos animados para mentes curiosas",
+    "titleStart": "Arrastra, suelta y",
+    "titleHighlight": "completa",
+    "titleEnd": "un nuevo dibujo animado",
+    "subtitle": "Elige una escena de dibujos animados colorida, coloca sus piezas dispersas una por una y mira cómo la imagen completa encaja. Simple de jugar, satisfactorio de terminar.",
+    "primaryCta": "Comenzar a jugar",
+    "secondaryCta": "Explorar niveles",
+    "imageAlt": "Una escena de jungla de dibujos animados colorida siendo armada a partir de piezas de puzzle"
+  },
+  "howItWorks": {
+    "eyebrow": "Cómo funciona",
+    "title": "Cuatro pasos fáciles para una imagen terminada",
+    "subtitle": "Sin cronómetros, sin penalizaciones, solo un flujo tranquilo de arrastrar y soltar diseñado para concentración y diversión.",
+    "steps": [
+      {
+        "icon": "image",
+        "title": "Pick a scene",
+        "description": "Choose a cartoon picture from jungle, ocean, space, and more themed packs."
+      },
+      {
+        "icon": "square",
+        "title": "Grab a piece",
+        "description": "Drag any scattered piece from the tray with your mouse or finger."
+      },
+      {
+        "icon": "check",
+        "title": "Drop it in place",
+        "description": "Pieces snap into their correct spot the moment you drop them close enough."
+      },
+      {
+        "icon": "sparkles",
+        "title": "Reveal the picture",
+        "description": "Place the final piece and watch the whole cartoon come together with a celebration."
+      }
+    ]
+  },
+  "packs": {
+    "eyebrow": "Paquetes de puzzles",
+    "title": "Seis mundos de dibujos animados para armar",
+    "subtitle": "Cada paquete está ilustrado a mano y dividido en puzzles pequeños para diferentes niveles de habilidad.",
+    "cta": "Ver todos los niveles",
+    "items": [
+      {
+        "name": "Jungle Safari",
+        "description": "Lions, parrots, and elephants hiding among the vines.",
+        "difficulty": "Easy",
+        "pieces": "6 pieces"
+      },
+      {
+        "name": "Under the Sea",
+        "description": "A coral reef bursting with fish, bubbles, and a friendly octopus.",
+        "difficulty": "Easy",
+        "pieces": "12 pieces"
+      },
+      {
+        "name": "Space Explorers",
+        "description": "Rockets, planets, and a wandering comet across the stars.",
+        "difficulty": "Medium",
+        "pieces": "24 pieces"
+      },
+      {
+        "name": "Enchanted Forest",
+        "description": "A glowing treehouse surrounded by fireflies and toadstools.",
+        "difficulty": "Medium",
+        "pieces": "24 pieces"
+      },
+      {
+        "name": "Dino World",
+        "description": "Friendly dinosaurs roam a prehistoric valley at sunset.",
+        "difficulty": "Hard",
+        "pieces": "36 pieces"
+      },
+      {
+        "name": "Farmyard Friends",
+        "description": "A busy barnyard full of cows, chickens, and a sleepy pig.",
+        "difficulty": "Hard",
+        "pieces": "48 pieces"
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Por qué las familias lo aman",
+    "title": "Hecho para sesiones cortas y grandes sonrisas",
+    "subtitle": "Cada detalle está ajustado para manos pequeñas y períodos de atención cortos sin parecer infantil.",
+    "items": [
+      {
+        "icon": "clock",
+        "title": "Bite-sized sessions",
+        "description": "Most puzzles finish in five minutes or less, perfect for a quick play break."
+      },
+      {
+        "icon": "sparkles",
+        "title": "Happy feedback",
+        "description": "Gentle chimes and a confetti burst celebrate every completed picture."
+      },
+      {
+        "icon": "settings",
+        "title": "Adjustable difficulty",
+        "description": "Switch between 6, 12, 24, or 48 pieces to match any skill level."
+      },
+      {
+        "icon": "heart",
+        "title": "No pressure, ever",
+        "description": "There are no timers or fail states, just unlimited tries until it fits."
+      },
+      {
+        "icon": "lock",
+        "title": "Safe for kids",
+        "description": "No ads, no chat, no links out. Just puzzles from start to finish."
+      },
+      {
+        "icon": "star",
+        "title": "Designed for little hands",
+        "description": "Large, easy-to-grab pieces make dragging and dropping simple on any screen."
+      }
+    ]
+  },
+  "stats": {
+    "title": "Un mundo entero de imágenes esperando ser completadas",
+    "items": [
+      {
+        "value": "6+",
+        "label": "Cartoon puzzle packs"
+      },
+      {
+        "value": "6-48",
+        "label": "Pieces per puzzle"
+      },
+      {
+        "value": "3",
+        "label": "Difficulty levels"
+      },
+      {
+        "value": "100%",
+        "label": "Playable offline"
+      }
+    ]
+  }
+}

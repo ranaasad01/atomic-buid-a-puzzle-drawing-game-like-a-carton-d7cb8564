@@ -1,0 +1,36 @@
+{
+  "brand": {
+    "name": "PuzzleToon",
+    "tagline": "Drag, drop, and complete fun cartoon puzzles!",
+    "logoUrl": null
+  },
+  "navLinks": [
+    {
+      "key": "home",
+      "href": "/"
+    },
+    {
+      "key": "play",
+      "href": "/game"
+    },
+    {
+      "key": "results",
+      "href": "/results"
+    },
+    {
+      "key": "levels",
+      "href": "/home-level-select"
+    }
+  ],
+  "primaryCta": {
+    "key": "primary",
+    "href": "/game"
+  },
+  "footerColumns": [],
+  "socialLinks": [],
+  "motion": {
+    "intensity": 7
+  },
+  "navbarVariant": "split",
+  "footerVariant": "columns"
+}

@@ -1,0 +1,272 @@
+{
+  "nav": {
+    "home": "Home",
+    "play": "Play",
+    "results": "Results",
+    "levels": "Levels"
+  },
+  "cta": {
+    "primary": "Play Now"
+  },
+  "footer": {
+    "tagline": "Drag, drop, and complete fun cartoon puzzles!",
+    "rights": "All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Cartoon Puzzle Adventures",
+      "title": "Pick a scene and snap every piece into place",
+      "subtitle": "Choose from colorful cartoon puzzles, drag each piece onto the full picture, and complete the scene one connection at a time.",
+      "progressLabel": "Your progress",
+      "statsLevels": "levels cleared",
+      "statsStars": "stars earned"
+    },
+    "filters": {
+      "all": "All",
+      "easy": "Easy",
+      "medium": "Medium",
+      "hard": "Hard"
+    },
+    "levels": {
+      "title": "Choose your puzzle",
+      "subtitle": "Every scene is a full cartoon image broken into pieces, ready to be rebuilt.",
+      "pieceLabel": "pieces",
+      "playCta": "Play now",
+      "lockedCta": "Locked",
+      "items": [
+        {
+          "title": "Jungle Safari",
+          "difficulty": "Easy",
+          "pieces": 12,
+          "locked": false
+        },
+        {
+          "title": "Under the Sea",
+          "difficulty": "Easy",
+          "pieces": 16,
+          "locked": false
+        },
+        {
+          "title": "Space Explorer",
+          "difficulty": "Medium",
+          "pieces": 20,
+          "locked": false
+        },
+        {
+          "title": "Enchanted Forest",
+          "difficulty": "Medium",
+          "pieces": 24,
+          "locked": true
+        },
+        {
+          "title": "Dino World",
+          "difficulty": "Hard",
+          "pieces": 30,
+          "locked": true
+        },
+        {
+          "title": "Candy Kingdom",
+          "difficulty": "Hard",
+          "pieces": 36,
+          "locked": true
+        }
+      ]
+    },
+    "steps": {
+      "title": "How the puzzle works",
+      "subtitle": "Four simple steps to turn scattered pieces into a finished cartoon scene.",
+      "items": [
+        {
+          "title": "Pick a scene",
+          "description": "Select a cartoon puzzle from the level list based on its difficulty and piece count."
+        },
+        {
+          "title": "Pieces shuffle in",
+          "description": "Every piece of the full image scatters around the board, ready to be sorted."
+        },
+        {
+          "title": "Drag and connect",
+          "description": "Drop each piece onto its matching spot and watch it snap into the correct position."
+        },
+        {
+          "title": "Complete the picture",
+          "description": "Keep connecting pieces until the full cartoon image is rebuilt and the level is cleared."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to rebuild your first scene?",
+      "subtitle": "Jump into the easiest unlocked puzzle and start connecting pieces right away.",
+      "button": "Start playing"
+    }
+  },
+  "results": {
+    "badge": "Puzzle complete",
+    "headingPrefix": "You pieced together a",
+    "headingHighlight": "masterpiece",
+    "subtitle": "All {pieces} pieces found their place. Here's how your run stacked up.",
+    "summaryTitle": "Your results",
+    "stats": {
+      "time": {
+        "label": "Completion time"
+      },
+      "moves": {
+        "label": "Moves made"
+      },
+      "difficulty": {
+        "label": "Difficulty"
+      },
+      "score": {
+        "label": "Final score"
+      }
+    },
+    "difficultyValue": "Medium",
+    "nextTitle": "What's next?",
+    "nextSubtitle": "Keep the streak going or compare notes with other puzzlers.",
+    "actions": {
+      "playAgain": "Play another puzzle",
+      "goHome": "Back to home",
+      "leaderboard": "View leaderboard",
+      "leaderboardBadge": "Coming soon"
+    }
+  },
+  "hero": {
+    "eyebrow": "A cartoon puzzle game for curious minds",
+    "titleStart": "Drag, drop, and",
+    "titleHighlight": "complete",
+    "titleEnd": "a brand new cartoon",
+    "subtitle": "Pick a colorful cartoon scene, pull its scattered pieces into place one by one, and watch the full picture snap together. Simple to play, satisfying to finish.",
+    "primaryCta": "Start Playing",
+    "secondaryCta": "Browse Levels",
+    "imageAlt": "A colorful cartoon jungle scene being assembled from puzzle pieces"
+  },
+  "howItWorks": {
+    "eyebrow": "How it works",
+    "title": "Four easy steps to a finished picture",
+    "subtitle": "No timers, no penalties, just a calm drag-and-drop flow built for focus and fun.",
+    "steps": [
+      {
+        "icon": "image",
+        "title": "Pick a scene",
+        "description": "Choose a cartoon picture from jungle, ocean, space, and more themed packs."
+      },
+      {
+        "icon": "square",
+        "title": "Grab a piece",
+        "description": "Drag any scattered piece from the tray with your mouse or finger."
+      },
+      {
+        "icon": "check",
+        "title": "Drop it in place",
+        "description": "Pieces snap into their correct spot the moment you drop them close enough."
+      },
+      {
+        "icon": "sparkles",
+        "title": "Reveal the picture",
+        "description": "Place the final piece and watch the whole cartoon come together with a celebration."
+      }
+    ]
+  },
+  "packs": {
+    "eyebrow": "Puzzle packs",
+    "title": "Six cartoon worlds to piece together",
+    "subtitle": "Every pack is hand-illustrated and split into bite-sized puzzles for different skill levels.",
+    "cta": "See all levels",
+    "items": [
+      {
+        "name": "Jungle Safari",
+        "description": "Lions, parrots, and elephants hiding among the vines.",
+        "difficulty": "Easy",
+        "pieces": "6 pieces"
+      },
+      {
+        "name": "Under the Sea",
+        "description": "A coral reef bursting with fish, bubbles, and a friendly octopus.",
+        "difficulty": "Easy",
+        "pieces": "12 pieces"
+      },
+      {
+        "name": "Space Explorers",
+        "description": "Rockets, planets, and a wandering comet across the stars.",
+        "difficulty": "Medium",
+        "pieces": "24 pieces"
+      },
+      {
+        "name": "Enchanted Forest",
+        "description": "A glowing treehouse surrounded by fireflies and toadstools.",
+        "difficulty": "Medium",
+        "pieces": "24 pieces"
+      },
+      {
+        "name": "Dino World",
+        "description": "Friendly dinosaurs roam a prehistoric valley at sunset.",
+        "difficulty": "Hard",
+        "pieces": "36 pieces"
+      },
+      {
+        "name": "Farmyard Friends",
+        "description": "A busy barnyard full of cows, chickens, and a sleepy pig.",
+        "difficulty": "Hard",
+        "pieces": "48 pieces"
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Why families love it",
+    "title": "Made for short sessions and big smiles",
+    "subtitle": "Every detail is tuned for little hands and short attention spans without feeling babyish.",
+    "items": [
+      {
+        "icon": "clock",
+        "title": "Bite-sized sessions",
+        "description": "Most puzzles finish in five minutes or less, perfect for a quick play break."
+      },
+      {
+        "icon": "sparkles",
+        "title": "Happy feedback",
+        "description": "Gentle chimes and a confetti burst celebrate every completed picture."
+      },
+      {
+        "icon": "settings",
+        "title": "Adjustable difficulty",
+        "description": "Switch between 6, 12, 24, or 48 pieces to match any skill level."
+      },
+      {
+        "icon": "heart",
+        "title": "No pressure, ever",
+        "description": "There are no timers or fail states, just unlimited tries until it fits."
+      },
+      {
+        "icon": "lock",
+        "title": "Safe for kids",
+        "description": "No ads, no chat, no links out. Just puzzles from start to finish."
+      },
+      {
+        "icon": "star",
+        "title": "Designed for little hands",
+        "description": "Large, easy-to-grab pieces make dragging and dropping simple on any screen."
+      }
+    ]
+  },
+  "stats": {
+    "title": "A whole world of pictures waiting to be completed",
+    "items": [
+      {
+        "value": "6+",
+        "label": "Cartoon puzzle packs"
+      },
+      {
+        "value": "6-48",
+        "label": "Pieces per puzzle"
+      },
+      {
+        "value": "3",
+        "label": "Difficulty levels"
+      },
+      {
+        "value": "100%",
+        "label": "Playable offline"
+      }
+    ]
+  }
+}
